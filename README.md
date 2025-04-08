@@ -11,4 +11,3 @@ I'm always excited to tackle new challenges, explore ways to make an impact thro
 
 Whether it's discussing new ideas, collaborating on projects, or just having a friendly chat, I'm open to talking. Please feel free to reach out and say hi!
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/achen2089/stats)
